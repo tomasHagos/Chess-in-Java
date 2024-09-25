@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=playerDisplay
+comment0.text=\r\n\ this\ just\ displays\ text\ when\ checkmate\ is\ achieved.\r\n
+comment1.params=
+comment1.target=void\ act()
+numComments=2
